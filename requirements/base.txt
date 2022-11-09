@@ -1,7 +1,7 @@
-Django==2.2.21 \
+Django==3.2.15 \
     --hash=sha256:7d8b61b6e7031a3c1a4aef29e2701849af0837f4f2062bc203077a0b46d51c2c \
     --hash=sha256:7460cfe3781d36d1625230267dad255deb33e9229e41f21e32b33b9d536d20cd
-sqlparse==0.3.0 \
+sqlparse==0.4.2 \
     --hash=sha256:40afe6b8d4b1117e7dff5504d7a8ce07d9a1b15aeeade8a2d10f130a834f8177 \
     --hash=sha256:7c3dca29c022744e95b547e867cee89f4fce4373f3549ccd8797d8eb52cdb873
 MarkupSafe==1.1.1 \
@@ -168,7 +168,7 @@ django-cors-headers==2.5.3 \
 puente==0.5.0 \
     --hash=sha256:4a17958f7d6a83cb9ff92593c40f34911abafaec6ad959916b754aaa3869f11f \
     --hash=sha256:7ba1d07f9cee9657adf874bd94879b343fea81a783fdfa8e53885520477bf1ea
-babel==2.3.4 \
+babel==2.9.1 \
     --hash=sha256:3318ed2960240d61cbc6558858ee00c10eed77a6508c4d1ed8e6f7f48399c975 \
     --hash=sha256:c535c4403802f6eb38173cd4863e419e2274921a01a8aad8a5b497c131c62875
 django-jinja==2.6.0 \
