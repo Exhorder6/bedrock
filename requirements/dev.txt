@@ -2,7 +2,7 @@
 
 -r migration.txt
 
-Pygments==2.7.4 \
+Pygments==2.15.0 \
     --hash=sha256:bc9591213a8f0e0ca1a5e68a479b4887fdc3e75d0774e5c71c31920c427de435 \
     --hash=sha256:df49d09b498e83c1a73128295860250b0b7edd4c723a32e9bc0d295c7c2ec337
 flake8==3.7.7 \
