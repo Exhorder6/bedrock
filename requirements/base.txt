@@ -270,7 +270,7 @@ Pillow==8.1.1 \
     --hash=sha256:33fdbd4f5608c852d97264f9d2e3b54e9e9959083d008145175b86100b275e5b \
     --hash=sha256:59445af66b59cc39530b4f810776928d75e95f41e945f0c32a3de4aceb93c15d \
     --hash=sha256:f6fc18f9c9c7959bf58e6faf801d14fafb6d4717faaf6f79a68c8bb2a13dcf20
-configobj==5.0.6 \
+configobj==5.0.9 \
     --hash=sha256:a2f5650770e1c87fb335af19a9b7eb73fc05ccf22144eb68db7d00cd2bcb0902
 everett==0.9 \
     --hash=sha256:05b0d0bae138a3b1a7c365bdd991c0a5b06f20c2e01d6721896098ac93cf7ee9 \
